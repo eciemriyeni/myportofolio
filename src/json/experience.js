@@ -15,7 +15,6 @@ const experience =[
     },
     {
         img:ub,
-        result: Result,
         title: "Secretarial Staff - MTQMN XVII 2023",
         company :"Universitas Brawijaya",
         date:"Sep 2023 - Nov 2023"
