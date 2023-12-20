@@ -17,15 +17,15 @@ const experience =[
     },
     {
         img:ub,
-        title: "Secretarial Staff - MTQMN XVII 2023",
-        company :"Universitas Brawijaya",
-        date:"Sep 2023 - Nov 2023"
+        title: "Presidium III",
+        company :"DPM FILKOM UB",
+        date:"Sep 2022 - Okt 2023"
     },
     {
         img:ub,
-        title: "Secretarial Staff - MTQMN XVII 2023",
-        company :"Universitas Brawijaya",
-        date:"Sep 2023 - Nov 2023"
+        title: "Deputy Coordinator of the Data and Developer",
+        company :"Discite Institute",
+        date:"Aug 2022 - Aug 2023"
     },
     {
         img:ub,
