@@ -1,6 +1,7 @@
 import filkom from "../img/experience/logo_filkom 1.png"
 import ub from "../img/experience/logo ub 1.png"
 import Result from "../img/experience/result/example.png"
+import kb from "../img/experience/Logo KB.png"
 const experience =[
     {
         img:filkom,

@@ -7,7 +7,7 @@ const Navbar = () => {
         { name: "Home", target: "/" },
         { name: "Experience", target: "/experience" },
         { name: "Project", target: "/project" },
-        { name: "Licenses & Certifications ", target: "project" },
+        { name: "Licenses & Certifications ", target: "/licenses" },
     ];
     const [open, setOpen] = useState(false);
 
@@ -32,7 +32,7 @@ const Navbar = () => {
                             <NavLink
                                 to={link.target}
                                 exact="true"
-                                className='text-black hover:text-[#427D9D] duration-500'
+                                className='text-black hover:text-[#427D9D] active:text-[#427D9D] duration-500'
                                 activeClassName="active"
                             >
                                 {link.name}

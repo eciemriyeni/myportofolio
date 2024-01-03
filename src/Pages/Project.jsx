@@ -4,6 +4,7 @@ import Line from "../img/Line.png"
 import bg from "../img/bg.png"
 import datasains from '../json/datasains'
 import uiux from '../json/uiux'
+import Footer from '../Components/Footer/Footer'
 
 
 
@@ -132,6 +133,7 @@ const Project = () => {
                             <CardUiUx key={index} {...exp} />
                         ))}
                     </div>
+                    <Footer/>
                 </div>
             </div></div>
     )

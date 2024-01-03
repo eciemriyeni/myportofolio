@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Navbar from '../Components/Navbar/Navbar';
 import Line from "../img/Line.png";
 import experience from '../json/experience';
+import Footer from '../Components/Footer/Footer';
 
 const Card = ({ img, result, title, company, date }) => {
     const [showImage, setShowImage] = useState(false);
@@ -68,6 +69,7 @@ const Experience = () => {
                     </div>
                 </div>
             </div>
+            <Footer/>
         </div>
     );
 };
