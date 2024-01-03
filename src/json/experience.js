@@ -4,11 +4,7 @@ import discite from "../img/experience/Discite Institute.png"
 import dpm from "../img/experience/logo dpm 2.png"
 import kb from "../img/experience/Logo KB.png"
 import Result from "../img/experience/result/example.png"
-<<<<<<< HEAD
-import kb from "../img/experience/Logo KB.png"
-=======
 
->>>>>>> 46325721e8626dc4273b839ec2099829a76b6f66
 const experience =[
     {
         img:filkom,
