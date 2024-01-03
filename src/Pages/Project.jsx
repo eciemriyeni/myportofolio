@@ -32,7 +32,7 @@ const CardDataSains = ({ title, date, skills }) => {
                     ))}
                 </ul>
             </div>
-            <button onClick={handleSeeMoreClick} className='justify-center mx-auto flex mt-5 p-2 bg-[#164863] text-white font-normal rounded-md'>See More</button>
+            
             {showImage && (
                 <div className="fixed top-0 left-0 w-full  h-full bg-black bg-opacity-70 flex items-center justify-center">
                     <div className=" relative w-3/4 ">
